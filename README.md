@@ -1,4 +1,4 @@
-## <p align="center"><a href="https://vast-brushlands-94595.herokuapp.com/"><img src="https://i.ibb.co/1Z5vk08/logo.png" alt="logo" width="150px" border="0"></a></p>WeatherApp
+## <p align="center"><a href="https://vast-brushlands-94595.herokuapp.com/"><img src="https://i.ibb.co/MNs7FCv/favicon-0.png" alt="logo" width="150px" border="0"></a></p>WeatherApp
 
 **Weather app** development is one such happy fallout. Weather apps enable users to get instant alerts regarding weather conditions. Weather apps are the simplest method to know about the updates of the upcoming weather.
 
