@@ -13,7 +13,8 @@
 + Implementation of the CSS framework Bootstrap 5
 + Node.js & npm packages:
   * Express.js
-  * Request
+  * EJS
++ Openweathermap.org API
 + Responsive design & Media Queries
 + Code with accessibility
 + Conventions & Best Practices
