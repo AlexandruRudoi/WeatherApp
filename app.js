@@ -18,7 +18,7 @@ app.post("/", (req, res) => {
     // Declaring the variables used in the API url
     const query = req.body.cityName;
     //*****************************API KEY******************************
-    const apiKey = "aa";
+    const apiKey = "<Your apiKey>";
     const unit = "metric";
     const url = "https://api.openweathermap.org/data/2.5/weather?q=" + query + "&units=" + unit + "&appid=" + apiKey;
 
