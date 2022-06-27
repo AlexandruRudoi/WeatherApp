@@ -61,6 +61,6 @@ app.post("/error", (req, res) => {
 
 // Running the app on the chosen port
 const port = 3000;
-app.listen(port || process.env.PORT, () => {
+app.listen(process.env.PORT || port, () => {
     console.log(`Server is running on port ${port}.`);
 });
