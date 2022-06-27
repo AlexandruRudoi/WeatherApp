@@ -1,6 +1,6 @@
 ## <p align="center"><a href="https://vast-brushlands-94595.herokuapp.com/"><img src="https://i.ibb.co/1Z5vk08/logo.png" alt="logo" width="150px" border="0"></a></p>WeatherApp
 
-**Newsletter apps** are the tools that power the bulk emails you receive from businesses every day. They're a great way to share news, announce new promotions, show off new product features, promote your new blog posts, and curate content for your subscribers.
+**Weather app** development is one such happy fallout. Weather apps enable users to get instant alerts regarding weather conditions. Weather apps are the simplest method to know about the updates of the upcoming weather.
 
 > <p><a href="https://damp-wave-91569.herokuapp.com/">Link</a></p>
 
