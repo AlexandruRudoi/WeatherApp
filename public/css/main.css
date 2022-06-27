@@ -1,0 +1,38 @@
+body {
+    padding: 100px 0;
+    background: #19beda;
+}    
+    
+.input-container {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 2; 
+}
+    
+.input-container h2 {
+    font-size: 22px;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 40px; 
+}
+
+.form-control {
+    height: 50px;
+    background: rgba(255, 255, 255, 0.6);
+    border-color: transparent;
+    border-radius: 20px 0 0 20px; 
+}
+    
+.form-control:focus {
+    box-shadow: none;
+    border-color: #243c4f; 
+}
+    
+.btn {
+    min-height: 50px; 
+    border-radius: 0 20px 20px 0;
+    background: #243c4f;
+    color: #fff;
+}
