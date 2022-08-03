@@ -19,7 +19,6 @@
 + Code with accessibility
 + Conventions & Best Practices
 + Semantic Elements
-+ Search engine optimization
 
 ---
 
